@@ -2,13 +2,13 @@
 
 ### Eu sou a Camilly Cunha
 
-- 🔭 Estudante
+- 🔭 Estudante de Gestão da Tecnologia da Informação
 - 🌱 Cursando 
  
 <div align="center">
   <a href="https://github.com/camillyac">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camillyac&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillyac&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camillyac&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillyac&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="111" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
