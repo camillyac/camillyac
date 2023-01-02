@@ -18,7 +18,7 @@
   
 
   <a href = "mailto:gmartins23ustavo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-martins-6532771a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gustavo-martins-6532771a5/(https://www.linkedin.com/in/camilly-cunha-97b014238/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/GustavoFerMartins/GustavoFerMartins/blob/output/github-contribution-grid-snake.svg)
  
