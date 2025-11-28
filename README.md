@@ -2,8 +2,9 @@
 
 ### Eu sou a Camilly Cunha
 
-- 🔭 Estudante
-- 🌱 Cursando Gestão da Tecnologia da Informação
+- 🔭 Estudante de Sistemas de Informação
+- Profissional de T.I voltada a área de Dados
+- Repositório para compartilhar projetos públicos e pessoais
  
 <div align="center">
   <a href="https://github.com/camillyac">
